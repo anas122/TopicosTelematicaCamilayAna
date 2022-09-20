@@ -68,8 +68,14 @@ management`
 5. Se accede a la plataforma Ubidots para visualizar los datos.
 
 ## Resultados o pantallazos 
+![image](https://user-images.githubusercontent.com/37346028/191346490-df3a54be-81ba-4307-99c2-796b05ac5c9b.png)
+![image](https://user-images.githubusercontent.com/37346028/191347016-54bcf56f-1e17-4583-a392-8d371c3d4aed.png)
+![image](https://user-images.githubusercontent.com/37346028/191347074-3746c14c-0ca7-431b-8475-fb1bad550d22.png)
+![image](https://user-images.githubusercontent.com/37346028/191347136-fe24bc45-8b02-40b0-b572-190a99d24645.png)
+![image](https://user-images.githubusercontent.com/37346028/191347204-a1a8c479-be9f-4b8b-a865-8cd84c607dfe.png)
 
 # 5. otra información que considere relevante para esta actividad.
+![image](https://user-images.githubusercontent.com/37346028/191347286-0ab0dffc-6083-47e8-998b-fc9e5463f09d.png)
 
 # Referencias:
 ## https://help.ubidots.com/en/articles/569964-simulate-data-in-ubidots-using-python
